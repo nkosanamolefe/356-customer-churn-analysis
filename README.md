@@ -1,6 +1,6 @@
 # Customer Churn Analysis with SQL and Tableau
 
-# Background and Overviwe
+# Background and Overview
 365 is an e-Learning company offering pre-recorded lessons, exercises, quizzes, exams, and real-world projects on a subscription-based model, providing access to various courses and certification tracks.
 
 The company is facing a critical challenge of understanding and mitigating subscriber churn. The company aims to identify the key factors driving customer churn, analyze the impact of churn on revenue, and implement strategies to improve customer retention.
@@ -18,6 +18,10 @@ By understanding churn, companies can take steps to reduce it and improve custom
 </details>
 
 # Data Structure Overview
+365's database structure as seen below consists of 3 tables: students, purchases and subscriptions with a total records of .
+
+![image]('https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/data-structure.png')
+
 # Executive Summary
 # Insights Deep Dive
 # Recommendations
