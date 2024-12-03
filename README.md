@@ -20,7 +20,7 @@ By understanding churn, companies can take steps to reduce it and improve custom
 # Data Structure Overview
 365's database structure as seen below consists of 3 tables: students, purchases and subscriptions with a total records of .
 
-![image]('https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/data-structure.png')
+![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/data-structure.png)
 
 # Executive Summary
 # Insights Deep Dive
