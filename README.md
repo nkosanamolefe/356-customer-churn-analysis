@@ -29,4 +29,6 @@ By understanding churn, companies can take steps to reduce it and improve custom
 
 # Executive Summary
 # Insights Deep Dive
+**Revenue and Churn**
+![image](data/images/Net Revenue and Churn Rates.png)
 # Recommendations
