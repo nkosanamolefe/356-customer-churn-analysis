@@ -6,7 +6,7 @@
 The company is facing a critical challenge of understanding and mitigating subscriber churn. The company aims to identify the key factors driving customer churn, analyze the impact of churn on revenue, and implement strategies to improve customer retention.
 
 <details>
-  <summary> ###**Understanding Churn** (Click to Expand)</summary>
+  <summary> ### **Understanding Churn** (Click to Expand)</summary>
   Churn is a term used to describe the rate at which customers stop doing business with a company. Understanding churn is crucial because it directly impacts a company's growth and profitability.
 
 Here's why it's important:
