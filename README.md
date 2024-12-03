@@ -30,5 +30,5 @@ By understanding churn, companies can take steps to reduce it and improve custom
 # Executive Summary
 # Insights Deep Dive
 **Revenue and Churn**
-![image](data/images/Net Revenue and Churn Rates.png)
+![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Net%20Revenue%20and%20Churn%20Rates.png)
 # Recommendations
