@@ -46,4 +46,10 @@ Reasons for high refund rates:
 The company's impressive churn rate reduction across all customer segments - from concerning levels of 9% in December 2021 to much healthier rates of 4% respectively by October 2022 - significantly outperforms industry benchmarks (5-20% for online subscriptions and 10-15% for e-Learning), indicating strong product-market fit and effective customer retention strategies.
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Net%20Revenue%20and%20Churn%20Rates.png)
+
+## **New vs Recurring Customers**
+## What is 356’s mix between new and recurring customers, how much revenue do both groups generate?
+
+## **Revenue by Country**
+### What strategies is the platform using to ensure that existing customers stay subscribed and new customers are acquired?
 # Recommendations
