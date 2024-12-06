@@ -58,3 +58,6 @@ The company's impressive churn rate reduction across all customer segments - fro
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Revenue%20by%20Country.png)
 
 # Recommendations
+### 
+### 
+### Revenue by Country
