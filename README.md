@@ -50,6 +50,11 @@ The company's impressive churn rate reduction across all customer segments - fro
 ## **New vs Recurring Customers**
 ### What is 356’s mix between new and recurring customers, how much revenue do both groups generate?
 
+![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/New%20vs%20Recurring%20Customers.png)
+
 ## **Revenue by Country**
 ### What strategies is the platform using to ensure that existing customers stay subscribed and new customers are acquired?
+
+![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Revenue%20by%20Country.png)
+
 # Recommendations
