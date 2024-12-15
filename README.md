@@ -49,7 +49,7 @@ The company's impressive churn rate reduction across all customer segments - fro
 
 ## **New vs Recurring Customers**
 ### What is 356’s mix between new and recurring customers?
-In November, all subscription categories—lifetime, annual, and monthly—experienced a notable surge in new customer acquisitions, surpassing 1,049, attributed to the Black Friday promotion.
+In November, all subscription categories lifetime, annual, and monthly experienced a notable surge in new customer acquisitions, surpassing 1,049, attributed to the Black Friday promotion.
 
 **Annual Subscription**: Most marketing campaigns promote the annual plan, resulting in an average of 65% new customers subscribing during odd months compared to recurring customers. New subscriptions during non-campaign months stem from organic traffic and evergreen campaigns.
 
