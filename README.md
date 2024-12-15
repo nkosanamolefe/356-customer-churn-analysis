@@ -48,7 +48,12 @@ The company's impressive churn rate reduction across all customer segments - fro
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Net%20Revenue%20and%20Churn%20Rates.png)
 
 ## **New vs Recurring Customers**
-### What is 356’s mix between new and recurring customers, how much revenue do both groups generate?
+### What is 356’s mix between new and recurring customers?
+**Annual Subscription**: Most marketing campaigns promote the annual plan, resulting in an average of 65% new customers subscribing during odd months compared to recurring customers. New subscriptions during non-campaign months stem from organic traffic and evergreen campaigns.
+
+**Monthly Subscription**: Recurring monthly subscriptions comprise about 70%.
+
+In conclusion, marketing campaigns are effective in bringing in new customers.
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/New%20vs%20Recurring%20Customers.png)
 
