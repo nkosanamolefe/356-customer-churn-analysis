@@ -71,12 +71,12 @@ Spain shows strong market engagement with revenue of $31,610 and an impressive a
 # Recommendations
 ### Address Refund Rates
 **Investigate the Root Causes**: While the analysis provides potential reasons for high refunds, 365 should conduct a deeper dive to pinpoint specific issues. This could include:
- **Customer Surveys**: Gather direct feedback from customers who requested refunds about their specific pain points.
+- **Customer Surveys**: Gather direct feedback from customers who requested refunds about their specific pain points.
 - **Course Content Review**: Ensure the course material is clear, up-to-date, and meets stated expectations, and that the learning curve is properly managed.
 - **Sales and Marketing Alignment**: Verify that marketing materials accurately represent the learning experience to avoid misleading potential students.
-*   **Improve Product Quality:** Regularly update content to ensure it remains fresh and relevant by adapting to field changes and addressing user-reported issues.
-*   **Manage Pricing and Promotions:** Evaluate the effectiveness of volume-driven promotions. Perhaps these should be more focused on students with a higher likelihood of long-term engagement, rather than solely on price-sensitive customers.
-*   **Simplify Plan Switching:** Make the process of switching to a different subscription tier smoother, minimizing dissatisfaction and refunds by making this a good option for the student.
+- **Improve Product Quality:** Regularly update content to ensure it remains fresh and relevant by adapting to field changes and addressing user-reported issues.
+- **Manage Pricing and Promotions:** Evaluate the effectiveness of volume-driven promotions. Perhaps these should be more focused on students with a higher likelihood of long-term engagement, rather than solely on price-sensitive customers.
+- **Simplify Plan Switching:** Make the process of switching to a different subscription tier smoother, minimizing dissatisfaction and refunds by making this a good option for the student.
 ### Churn
 *   **Maintain Low Churn Rates:**
 **Sustain Customer Retention Efforts:** 365 has done a great job at reducing churn. They should continue implementing successful strategies and closely monitor churn rates for any early warning signs.
