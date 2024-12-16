@@ -49,6 +49,7 @@ The company's impressive churn rate reduction across all customer segments - fro
 
 ## **New vs Recurring Customers**
 ### What is 356’s mix between new and recurring customers?
+
 In November, all subscription categories lifetime, annual, and monthly experienced a notable surge in new customer acquisitions, surpassing 1,049, attributed to the Black Friday promotion.
 
 **Annual Subscription**: Most marketing campaigns promote the annual plan, resulting in an average of 65% new customers subscribing during odd months compared to recurring customers. New subscriptions during non-campaign months stem from organic traffic and evergreen campaigns.
@@ -60,11 +61,16 @@ In conclusion, marketing campaigns are effective in bringing in new customers.
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/New%20vs%20Recurring%20Customers.png)
 
 ## **Revenue by Country**
-### What strategies is the platform using to ensure that existing customers stay subscribed and new customers are acquired?
+
+The US market has demonstrated strong performance with revenue of $640,102 and an average order value of $99, leveraging key market advantages. The nation's expansive consumer base of 330 million people, combined with high disposable income levels, creates significant market opportunity. The US position as a global technology leader, particularly in hubs like Silicon Valley, fosters rapid adoption of new products. Additionally, the unified English-speaking market enables efficient operations and marketing initiatives, streamlining customer engagement efforts.
+
+Nigeria is the only African country in the top ten, with a revenue of $37,441 and an average order value of $96, Nigeria represents an emerging market with significant growth potential. The country's emphasis on digital skills development through government and private sector initiatives has created a foundation for technology adoption and market expansion. Nigeria's IT sector is experiencing rapid growth, particularly in Lagos and Abuja, which serve as technology hubs for West Africa.
+
+Spain shows strong market engagement with revenue of $31,610 and an impressive average order value of $103. The country's high-income economy and substantial market size of 47 million consumers provide significant growth potential. While the Spanish-language market requires localized approach and dedicated resources, this investment barrier creates a competitive advantage for established operations. The market's advanced infrastructure and concentrated urban populations in Madrid, Barcelona, and Valencia support efficient market penetration and scalability opportunities.
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Revenue%20by%20Country.png)
 
 # Recommendations
-### 
-### 
+### Revenue and Churn
+### New vs Recurring Customers
 ### Revenue by Country
