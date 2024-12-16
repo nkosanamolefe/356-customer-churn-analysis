@@ -33,7 +33,7 @@ A significant achievement has been the reduction in customer churn rates from 9%
 
 Marketing campaigns have proven particularly effective for annual subscriptions, with new customer acquisition reaching peaks during promotional periods, notably exceeding 1,049 new subscribers during the Black Friday promotion. The monthly subscription model shows strong retention, with approximately 70% of customers maintaining recurring subscriptions.
 
-Geographically, the United States leads revenue generation at $640,102, benefiting from high disposable income and advanced technological adoption. Nigeria has emerged as a promising market in Africa, generating $37,441 in revenue.
+Geographically,the United States leads lifetime revenue generation at $640,102, benefiting from high disposable income and advanced technological adoption. Nigeria has emerged as a promising market in Africa, generating $37,441 in revenue.
 
 To maintain this positive trajectory, 365 should focus on reducing refund rates through improved product quality and customer expectation management, while continuing successful retention strategies. The company should also consider targeted expansion in high-performing markets through localized content and strategic partnerships, particularly in Spanish-speaking regions where language barriers create competitive advantages.
 
