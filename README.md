@@ -60,7 +60,6 @@ In conclusion, marketing campaigns are effective in bringing in new customers.
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/New%20vs%20Recurring%20Customers.png)
 
 ## **Revenue by Country**
-
 The US market has demonstrated strong performance with revenue of $640,102 and an average order value of $99, leveraging key market advantages. The nation's expansive consumer base of 330 million people, combined with high disposable income levels, creates significant market opportunity. The US position as a global technology leader, particularly in hubs like Silicon Valley, fosters rapid adoption of new products. Additionally, the unified English-speaking market enables efficient operations and marketing initiatives, streamlining customer engagement efforts.
 
 Nigeria is the only African country in the top ten, with a revenue of $37,441 and an average order value of $96, Nigeria represents an emerging market with significant growth potential. The country's emphasis on digital skills development through government and private sector initiatives has created a foundation for technology adoption and market expansion. Nigeria's IT sector is experiencing rapid growth, particularly in Lagos and Abuja, which serve as technology hubs for West Africa.
@@ -70,6 +69,51 @@ Spain shows strong market engagement with revenue of $31,610 and an impressive a
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Revenue%20by%20Country.png)
 
 # Recommendations
-### Revenue and Churn
+### Address Refund Rates
+**Investigate the Root Causes**: While the analysis provides potential reasons for high refunds, 365 should conduct a deeper dive to pinpoint specific issues. This could include:
+ **Customer Surveys**: Gather direct feedback from customers who requested refunds about their specific pain points.
+- **Course Content Review**: Ensure the course material is clear, up-to-date, and meets stated expectations, and that the learning curve is properly managed.
+- **Sales and Marketing Alignment**: Verify that marketing materials accurately represent the learning experience to avoid misleading potential students.
+*   **Improve Product Quality:** Regularly update content to ensure it remains fresh and relevant by adapting to field changes and addressing user-reported issues.
+*   **Manage Pricing and Promotions:** Evaluate the effectiveness of volume-driven promotions. Perhaps these should be more focused on students with a higher likelihood of long-term engagement, rather than solely on price-sensitive customers.
+*   **Simplify Plan Switching:** Make the process of switching to a different subscription tier smoother, minimizing dissatisfaction and refunds by making this a good option for the student.
+### Churn
+*   **Maintain Low Churn Rates:**
+**Sustain Customer Retention Efforts:** 365 has done a great job at reducing churn. They should continue implementing successful strategies and closely monitor churn rates for any early warning signs.
 ### New vs Recurring Customers
-### Revenue by Country
+
+### New vs. Recurring Customers
+Optimize Campaigns for Annual Subscriptions **Organic Growth:** Work on organic growth strategies by attracting the right type of student which would convert to loyal recurring customers.
+Boost Monthly Subscription Engagement**Personalized Recommendations:** Provide personalized recommendations for new content or courses to recurring customers based on their previous engagement to keep them engaged.
+Balance Acquisition and Retention
+*   **Strategic Marketing:** Don't solely focus on bringing in new customers. Ensure marketing efforts also retain and engage existing customers.
+*   **Customer Lifecycle Management:** Implement a customer lifecycle management strategy that focuses on long-term engagement and reduces churn.
+
+### Recommendations: Revenue by Country
+
+**1. Capitalize on US Market Strengths:**
+
+*   **Localized Content:** Create courses specifically tailored to US market demands.
+*   **Partnerships:** Partner with US-based institutions or businesses to expand reach.
+*   **Optimize for US:** Develop marketing approaches suited for US consumers.
+*   **Maintain High Standards:** Keep up with evolving industry standards in tech to stay relevant in a fast-paced environment.
+
+**2. Leverage Nigerian Market Growth:**
+
+*   **Digital Skills Programs:** Invest in digital skills development programs in collaboration with government and local partners in Nigeria.
+*   **Tailor Curriculum:** Develop courses relevant to Nigerian IT and skills gaps.
+*   **Strategic Partnerships:** Seek out local partnerships to improve operations.
+
+**3. Expand in the Spanish Market:**
+
+*   **Localized Content:** Create Spanish language courses and resources, and tailor the content to the specific learning needs of Spanish students.
+*   **Dedicated Support:** Invest in dedicated customer support, in the Spanish language.
+*   **Targeted Marketing:** Develop marketing strategies targeted at Spanish-speaking areas, emphasizing the quality and value of 365’s course offerings.
+*   **Competitive Edge:** Capitalize on the language barrier to establish a competitive advantage.
+
+**4. Global Market Expansion:**
+
+*   **Market Research:** Invest in in-depth market research before expanding into new areas.
+*   **Gradual Approach:** Take a gradual approach, initially focusing on markets with the highest potential.
+
+By implementing these recommendations, 365 can further reduce churn, enhance customer loyalty, and drive sustainable revenue growth across various markets. Remember to continuously track results to measure impact and identify further opportunities for optimization.
