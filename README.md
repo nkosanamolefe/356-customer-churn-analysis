@@ -28,6 +28,13 @@ By understanding churn, companies can take steps to reduce it and improve custom
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/data-structure.png)
 
 # Executive Summary
+365, has demonstrated strong performance in customer retention while facing some challenges in refund management. The company generated net revenue of $666,720 between December 2021 and October 2022, representing a modest growth of 0.93% compared to the previous period.
+A significant achievement has been the reduction in customer churn rates from 9% to 4% between December 2021 and October 2022, substantially outperforming industry benchmarks of 5-20%. This improvement indicates strong product-market fit and effective retention strategies. However, the company maintains a 10% refund rate, which, while aligned with industry standards, presents an opportunity for optimization.
+Marketing campaigns have proven particularly effective for annual subscriptions, with new customer acquisition reaching peaks during promotional periods, notably exceeding 1,049 new subscribers during the Black Friday promotion. The monthly subscription model shows strong retention, with approximately 70% of customers maintaining recurring subscriptions.
+Geographically, the United States leads revenue generation at $640,102, benefiting from high disposable income and advanced technological adoption. Nigeria has emerged as a promising market in Africa, generating $37,441 in revenue, while Spain contributes $31,610 with the highest average order value of $103 among top markets.
+To maintain this positive trajectory, 365 should focus on reducing refund rates through improved product quality and customer expectation management, while continuing successful retention strategies. The company should also consider targeted expansion in high-performing markets through localized content and strategic partnerships, particularly in Spanish-speaking regions where language barriers create competitive advantages.
+These findings suggest that while 365 has established a strong foundation in customer retention and market presence, strategic investments in product quality, market expansion, and customer experience will be crucial for sustained growth and profitability.
+
 # Insights Deep Dive
 ## **Revenue and Churn**
 ### Net Revenue and Refunds
@@ -77,23 +84,22 @@ Spain shows strong market engagement with revenue of $31,610 and an impressive a
 - **Improve Product Quality:** Regularly update content to ensure it remains fresh and relevant by adapting to field changes and addressing user-reported issues.
 - **Manage Pricing and Promotions:** Evaluate the effectiveness of volume-driven promotions. Perhaps these should be more focused on students with a higher likelihood of long-term engagement, rather than solely on price-sensitive customers.
 - **Simplify Plan Switching:** Make the process of switching to a different subscription tier smoother, minimizing dissatisfaction and refunds by making this a good option for the student.
+
 ### Churn
-*   **Maintain Low Churn Rates:**
+**Maintain Low Churn Rates:**
 **Sustain Customer Retention Efforts:** 365 has done a great job at reducing churn. They should continue implementing successful strategies and closely monitor churn rates for any early warning signs.
-### New vs Recurring Customers
 
 ### New vs. Recurring Customers
-Optimize Campaigns for Annual Subscriptions **Organic Growth:** Work on organic growth strategies by attracting the right type of student which would convert to loyal recurring customers.
-Boost Monthly Subscription Engagement**Personalized Recommendations:** Provide personalized recommendations for new content or courses to recurring customers based on their previous engagement to keep them engaged.
-Balance Acquisition and Retention
+Optimize Campaigns for Annual Subscriptions Formulate comprehensive organic growth strategies aimed at attracting students who will become loyal, repeat customers.
+Boost Monthly Subscription Engagementby offering personalized recommendations for new content or courses to recurring customers based on their previous engagement to keep them engaged.
+Balance Acquisition and Retention:
 *   **Strategic Marketing:** Don't solely focus on bringing in new customers. Ensure marketing efforts also retain and engage existing customers.
 *   **Customer Lifecycle Management:** Implement a customer lifecycle management strategy that focuses on long-term engagement and reduces churn.
 
-### Recommendations: Revenue by Country
+### Revenue by Country
 
 **1. Capitalize on US Market Strengths:**
 
-*   **Localized Content:** Create courses specifically tailored to US market demands.
 *   **Partnerships:** Partner with US-based institutions or businesses to expand reach.
 *   **Optimize for US:** Develop marketing approaches suited for US consumers.
 *   **Maintain High Standards:** Keep up with evolving industry standards in tech to stay relevant in a fast-paced environment.
