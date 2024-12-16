@@ -29,7 +29,7 @@ By understanding churn, companies can take steps to reduce it and improve custom
 
 # Executive Summary
 365, has demonstrated strong performance in customer retention while facing some challenges in refund management. The company generated net revenue of $666,720 between December 2021 and October 2022, representing a modest growth of 0.93% compared to the previous period.
-A significant achievement has been the reduction in customer churn rates from 9% to 4% between December 2021 and October 2022, substantially outperforming industry benchmarks of 5-20%. This improvement indicates strong product-market fit and effective retention strategies. However, the company maintains a 10% refund rate, which, while aligned with industry standards, presents an opportunity for optimization.
+A significant achievement has been the reduction in customer churn rates from 9% to 4% between December 2021 and October 2022, substantially outperforming industry benchmarks of 5-20%. This improvement indicates strong product-market fit and effective retention strategies. However, the company maintains a 10% refund rate, while aligned with industry standards, presents an opportunity for optimization.
 
 Marketing campaigns have proven particularly effective for annual subscriptions, with new customer acquisition reaching peaks during promotional periods, notably exceeding 1,049 new subscribers during the Black Friday promotion. The monthly subscription model shows strong retention, with approximately 70% of customers maintaining recurring subscriptions.
 
