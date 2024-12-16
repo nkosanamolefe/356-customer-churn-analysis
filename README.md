@@ -27,6 +27,7 @@ An interactive software used dashboard can be downloaded here
   <summary>Targeted SQL queries regarding various business questions an be found (Click to Expand)</summary>
   
 </details>
+
 # Data Structure Overview
 365's database structure as seen below consists of 3 tables: students, purchases and subscriptions with a total records of.
 
