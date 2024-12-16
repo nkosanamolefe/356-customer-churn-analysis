@@ -23,8 +23,9 @@ By understanding churn, companies can take steps to reduce it and improve custom
 - **Customer retention:** Assessment of customer retention rate and its differences across subscription plans and customer segments.
 
 An interactive software used dashboard can be downloaded here
+Targeted SQL queries regarding various business questions an be found [here](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/tree/main/sql-queries)
 <details>
-  <summary>Targeted SQL queries regarding various business questions an be found (Click to Expand)</summary>
+  <summary>T (Click to Expand)</summary>
   
 </details>
 
