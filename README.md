@@ -23,12 +23,8 @@ By understanding churn, companies can take steps to reduce it and improve custom
 - **Customer retention:** Assessment of customer retention rate and its differences across subscription plans and customer segments.
 
 An interactive software used dashboard can be downloaded here
-Targeted SQL queries regarding various business questions an be found [here](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/tree/main/sql-queries)
-<details>
-  <summary>T (Click to Expand)</summary>
-  
-</details>
 
+Targeted SQL queries regarding various business questions an be found [here](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/tree/main/sql-queries)
 # Data Structure Overview
 365's database structure as seen below consists of 3 tables: students, purchases and subscriptions with a total records of.
 
