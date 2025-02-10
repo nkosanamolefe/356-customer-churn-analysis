@@ -1,4 +1,4 @@
-# Customer Churn Analysis with SQL and Tableau
+# 365 Customer Churn Analysis
 
 # Background and Overview
 365 is an e-Learning company offering pre-recorded lessons, exercises, quizzes, exams, and real-world projects on a subscription-based model, providing access to various courses and certification tracks.
