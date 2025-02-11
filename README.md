@@ -25,7 +25,7 @@ By understanding churn, companies can take steps to reduce it and improve custom
 An interactive software used dashboard can be downloaded [here](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/365%20customer%20churn%20Tableau%20workbook.twbx)
 
 Targeted SQL queries regarding various business questions an be found [here](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/tree/main/sql-queries)
-# Data Structure Overview
+## Data Structure Overview
 365's database structure as seen below consists of 3 tables: students, purchases and subscriptions with a total records of.
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/data-structure.png)
@@ -42,9 +42,9 @@ To maintain this positive trajectory, 365 should focus on reducing refund rates 
 
 These findings suggest that while 365 has established a strong foundation in customer retention and market presence, strategic investments in product quality, market expansion, and customer experience will be crucial for sustained growth and profitability.
 
-# Insights Deep Dive
-## **Revenue and Churn**
-### Net Revenue and Refunds
+## Insights Deep Dive
+### **Revenue and Churn**
+#### Net Revenue and Refunds
 
 Net revenue generated for the period of December 2021 - October 2022 is $666,720, which is a slight increase of about 0.93% compare to the previous period. There were notable peaks, with the most significant peak occurring in January 2021 ($86,355).
 
@@ -55,13 +55,13 @@ Reasons for high refund rates:
 - Increased sales: Volume-driven promotions attracting price-sensitive customers
 - Clients switching their plan: Discovery of better-suited subscription tiers
 
-### Churn rate
+#### Churn rate
 
 The company's impressive churn rate reduction across all customer segments - from concerning levels of 9% in December 2021 to much healthier rates of 4% respectively by October 2022 - significantly outperforms industry benchmarks (5-20% for online subscriptions and 10-15% for e-Learning), indicating strong product-market fit and effective customer retention strategies.
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Net%20Revenue%20and%20Churn%20Rates.png)
 
-## **New vs Recurring Customers**
+### **New vs Recurring Customers**
 
 In November, all subscription categories lifetime, annual, and monthly experienced a notable surge in new customer acquisitions, surpassing 1,049, attributed to the Black Friday promotion.
 
@@ -73,7 +73,7 @@ In conclusion, marketing campaigns are effective in bringing in new customers.
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/New%20vs%20Recurring%20Customers.png)
 
-## **Revenue by Country**
+### **Revenue by Country**
 The US market has demonstrated strong performance with revenue of $640,102 and an average order value of $99, leveraging key market advantages. The nation's expansive consumer base of 330 million people, combined with high disposable income levels, creates significant market opportunity. The US position as a global technology leader, particularly in hubs like Silicon Valley, fosters rapid adoption of new products. Additionally, the unified English-speaking market enables efficient operations and marketing initiatives, streamlining customer engagement efforts.
 
 Nigeria is the only African country in the top ten, with a revenue of $37,441 and an average order value of $96, Nigeria represents an emerging market with significant growth potential. The country's emphasis on digital skills development through government and private sector initiatives has created a foundation for technology adoption and market expansion. Nigeria's IT sector is experiencing rapid growth, particularly in Lagos and Abuja, which serve as technology hubs for West Africa.
@@ -82,8 +82,8 @@ Spain shows strong market engagement with revenue of $31,610 and an impressive a
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/images/Revenue%20by%20Country.png)
 
-# Recommendations
-### Address Refund Rates
+## Recommendations
+#### Address Refund Rates
 **Investigate the Root Causes**: While the analysis provides potential reasons for high refunds, 365 should conduct a deeper dive to pinpoint specific issues. This could include:
 - **Customer Surveys**: Gather direct feedback from customers who requested refunds about their specific pain points.
 - **Course Content Review**: Ensure the course material is clear, up-to-date, and meets stated expectations, and that the learning curve is properly managed.
@@ -92,18 +92,18 @@ Spain shows strong market engagement with revenue of $31,610 and an impressive a
 - **Manage Pricing and Promotions:** Evaluate the effectiveness of volume-driven promotions. Perhaps these should be more focused on students with a higher likelihood of long-term engagement, rather than solely on price-sensitive customers.
 - **Simplify Plan Switching:** Make the process of switching to a different subscription tier smoother, minimizing dissatisfaction and refunds by making this a good option for the student.
 
-### Churn
+#### Churn
 **Maintain Low Churn Rates:**
 **Sustain Customer Retention Efforts:** 365 has done a great job at reducing churn. They should continue implementing successful strategies and closely monitor churn rates for any early warning signs.
 
-### New vs. Recurring Customers
+#### New vs. Recurring Customers
 Optimize Campaigns for Annual Subscriptions Formulate comprehensive organic growth strategies aimed at attracting students who will become loyal, repeat customers.
 Boost Monthly Subscription Engagementby offering personalized recommendations for new content or courses to recurring customers based on their previous engagement to keep them engaged.
 Balance Acquisition and Retention:
 *   **Strategic Marketing:** Don't solely focus on bringing in new customers. Ensure marketing efforts also retain and engage existing customers.
 *   **Customer Lifecycle Management:** Implement a customer lifecycle management strategy that focuses on long-term engagement and reduces churn.
 
-### Revenue by Country
+#### Revenue by Country
 
 **1. Capitalize on US Market Strengths:**
 
