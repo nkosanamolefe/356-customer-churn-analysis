@@ -1,6 +1,6 @@
 # 365 Customer Churn Analysis
 
-# Background and Overview
+## Background and Overview
 365 is an e-Learning company offering pre-recorded lessons, exercises, quizzes, exams, and real-world projects on a subscription-based model, providing access to various courses and certification tracks.
 
 The company is facing a critical challenge of understanding and mitigating subscriber churn. The company aims to identify the key factors driving customer churn, analyze the impact of churn on revenue, and implement strategies to improve customer retention.
@@ -30,7 +30,7 @@ Targeted SQL queries regarding various business questions an be found [here](htt
 
 ![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/data-structure.png)
 
-# Executive Summary
+## Executive Summary
 365, has demonstrated strong performance in customer retention while facing some challenges in refund management. The company generated net revenue of $666,720 between December 2021 and October 2022, representing a modest growth of 0.93% compared to the previous period.
 A significant achievement has been the reduction in customer churn rates from 9% to 4% between December 2021 and October 2022, substantially outperforming industry benchmarks of 5-20%. This improvement indicates strong product-market fit and effective retention strategies. However, the company maintains a 10% refund rate, while aligned with industry standards, presents an opportunity for optimization.
 
