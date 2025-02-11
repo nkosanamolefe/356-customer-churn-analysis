@@ -28,7 +28,7 @@ Targeted SQL queries regarding various business questions an be found [here](htt
 ## Data Structure Overview
 365's database structure as seen below consists of 3 tables: students, purchases and subscriptions with a total records of.
 
-![image](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau/blob/main/data/data-structure.png)
+![data structure](data/data-structure.png)
 
 ## Executive Summary
 365, has demonstrated strong performance in customer retention while facing some challenges in refund management. The company generated net revenue of $666,720 between December 2021 and October 2022, representing a modest growth of 0.93% compared to the previous period.
